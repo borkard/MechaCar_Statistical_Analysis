@@ -12,8 +12,24 @@ The screenshot below shows the results of producing a linear regression model to
 Write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
 * **The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
 
+![suspension_coils_total_summary](https://github.com/borkard/MechaCar_Statistical_Analysis/blob/main/Images/suspension_coils_total_summary.PNG)
+
+![suspension_coils_lot_summary](https://github.com/borkard/MechaCar_Statistical_Analysis/blob/main/Images/suspension_coils_lot_summary.PNG)
+
 ## T-Tests on Suspension Coils
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+Suspension Coil T-Test:
+![suspension_coil_t_test](https://github.com/borkard/MechaCar_Statistical_Analysis/blob/main/Images/suspension_coil_t_test.PNG)
+
+Lot 1 Suspension Coil T-Test:
+![lot1_t_test](https://github.com/borkard/MechaCar_Statistical_Analysis/blob/main/Images/lot1_t_test.PNG)
+
+Lot 2 Suspension Coil T-Test:
+![lot2_t_test](https://github.com/borkard/MechaCar_Statistical_Analysis/blob/main/Images/lot2_t_test.PNG)
+
+Lot 3 Suspension Coil T-Test:
+![lot3_t_test](https://github.com/borkard/MechaCar_Statistical_Analysis/blob/main/Images/lot3_t_test.PNG)
 
 ## Study Design: MechaCar vs Competition
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition.
