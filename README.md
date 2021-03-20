@@ -10,13 +10,14 @@ The screenshot below shows the results of producing a linear regression model to
 
 
 ## Summary Statistics on Suspension Coils
-Summary statistics of the mean, median, variance, and standard deviation of the PSI were pulled and are shown below for the suspension coils overall and for the manufacturing lots.The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch (PSI). Based on the variance of the suspension coils in the total summary, the suspension coils overall meet the MechaCar design specifications. However, the lot summary shows that, while manufacturing Lots 1 and 2 meet the design specifications and have variances under 100 PSI, Lot 3 does not meet the design specifications as its variance is much over the 100 PSI limit.
+Summary statistics of the mean, median, variance, and standard deviation of the PSI were pulled and are shown below for the suspension coils overall and for the manufacturing lots. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch (PSI). Based on the variance of the suspension coils in the total summary, the suspension coils overall meet the MechaCar design specifications. However, the lot summary shows that, while manufacturing Lots 1 and 2 meet the design specifications and have variances under 100 PSI, Lot 3 does not meet the design specifications as its variance is much over the 100 PSI limit.
 
 ### Total Summary
 ![suspension_coils_total_summary](https://github.com/borkard/MechaCar_Statistical_Analysis/blob/main/Images/suspension_coils_total_summary.PNG)
 
 ### Lot Summary
 ![suspension_coils_lot_summary](https://github.com/borkard/MechaCar_Statistical_Analysis/blob/main/Images/suspension_coils_lot_summary.PNG)
+
 
 
 ## T-Tests on Suspension Coils
