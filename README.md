@@ -43,11 +43,5 @@ The results of the t-test to test if the PSI mean for Lot3 is statistically diff
 
 
 ## Study Design: MechaCar vs Competition
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition.
-In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
-In your description, address the following questions:
-* **What metric or metrics are you going to test?**
-* **What is the null hypothesis or alternative hypothesis?**
-* **What statistical test would you use to test the hypothesis? And why?**
-* **What data is needed to run the statistical test?**
+To quantify how the MechaCar performs against the competition, an independent t-test could be used to compare the safety ratings of MechaCar against the competition.
+An independent t-test could be used because it will compare the means of the two different groups, MechaCar and the competition, to determine whether the associated population means are significantly different. To run this statistical test, data on the safety ratings for each group is needed. The null hypothesis would be that there is no difference in safety ratings between MechaCar and the competition and the alternative hypothesis is that there is a difference in the safety ratings between those two groups. Further analysis could  be done using the results from the t-test.
