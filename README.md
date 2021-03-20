@@ -1,9 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-The screenshot below shows the results of producing a linear regression model to predict MPG from the MechaCar_mpg dataset using the variables of vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD. Of these variables, vehicle length and ground clearance provided a non-random amount of variance to the mpg values in the dataset, as shown by their low p-values. 
-**The slope of the linear model *is/is not* considered to be zero because ...**
-**This model does not predict mpg of MechaCar prototypes effectively because...**
+The screenshot below shows the results of producing a linear regression model to predict MPG from the MechaCar_mpg dataset using the variables of vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD. Of these variables, vehicle length and ground clearance provided a non-random amount of variance to the mpg values in the dataset, as shown by their low p-values. The slope of the linear model is not considered to be zero because the estimates for all coefficients are not zero. This model predicts the mpg of MechaCar protoypes effectively because the Adjusted R-squared reflects that ~68.25% of the variation within mpg is explained by the coefficients.
 
 ### Linear Regression to Predict MPG
 ![linear_regression_summary](https://github.com/borkard/MechaCar_Statistical_Analysis/blob/main/Images/linear_regression_summary.PNG)
